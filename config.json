@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssalidate",
+        "uuid": 8747336,
+        "checksum": "vbqsh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
